@@ -5,10 +5,14 @@ body {
     margin-right: 10%;
 }
 
-.Title{
-    margin-left: 50%;
+h1 {
+    text-decoration:underline;
 }
 
-.MainPage{
+p {
     text-align: justify;
+}
+
+.Center {
+    text-align: center;
 }
