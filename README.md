@@ -1,7 +1,9 @@
 # Selto86.github.io
 <html>
   <head>
-    Welcome on my portfolio !
+    <title>
+      Welcome on my portfolio !
+    </title>
   </head>
   <body>
     Show projects here
