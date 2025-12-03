@@ -1,4 +1,14 @@
 body {
     font-family: 'Science Gothic', sans-serif;
     color: whitesmoke;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.Title{
+    margin-left: 50%;
+}
+
+.MainPage{
+    text-align: justify;
 }
