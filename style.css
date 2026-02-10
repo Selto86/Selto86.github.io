@@ -25,6 +25,7 @@ a {
 img {
     object-fit: cover;
     border-radius: 50%;
+    animation: fadeIn 5s;
 }
 
 body {
@@ -49,7 +50,7 @@ nav {
 
     display: flex;
     justify-content: space-between;
-    align-items: left;
+    align-items: center;
     width: 100%;
     color: white;
     position: fixed;
